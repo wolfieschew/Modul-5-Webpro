@@ -1,4 +1,4 @@
 # bagaswebpro
 
 Pratikum PHP Membuat Crud Sederhana
-Link Demo : 
+Link Demo : https://wolfieschew.github.io/bagas-webpro/
